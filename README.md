@@ -132,7 +132,7 @@ Diseñado para desacoplar las tareas matemáticas pesadas en tiempo real de los 
 
 * **Entorno HMI:** .NET Framework / C# WinForms.
 
-* **Motor a Pasos:** Unipolar / Bipolar accionado por secuencia de paso medio/completo `{1, 5, 4, 12, 8, 10, 2, 3}`.
+* **Motor a Pasos:** Bipolar accionado por secuencia de paso medio/completo `{1, 5, 4, 12, 8, 10, 2, 3}`.
 
 * **Sensor de Nivel:** HC-SR04 (Ultrasónico, rango de medición ajustado con offset de 2.86 cm y altura máxima de 12.85 cm).
 
